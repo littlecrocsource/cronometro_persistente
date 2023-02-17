@@ -5,3 +5,4 @@ in the future.
 Use Cronometro.java class to compile and run
 The saved state is stored in tiempo.dat
 The hr,min,sec atributes in the database are objects atributes froom the parent class Cronometro
+Added git updates to refresher
